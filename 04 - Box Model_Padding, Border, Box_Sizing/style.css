@@ -1,0 +1,36 @@
+/*div {
+	width: 185px;
+	height: 200px;
+	background-color: coral;
+	margin: 20px auto;
+	overflow: auto;
+	padding: 50px;
+	border:5px solid lightblue;
+	    thick, style, color
+	border-left: 10px dashed green;
+}*/
+/*style border:
+ solid
+ dotted
+ dashed
+ double*/
+
+div {
+	width: 600px;
+	margin: 10px auto;
+	box-sizing: border-box; /*Ini properti baru di CSS 3, berguna untuk mengatur margin sebuah konten. Mau berapapun padding dan border yang di tambahkan */
+}
+
+.satu {
+	/*width: 570px; Ini cara lama*/
+	background-color: violet;
+	padding: 10px;
+	border: 5px solid red;
+}
+
+.dua {
+	/*width: 520px; Ini cara lama*/
+	background-color: royalblue;
+	padding: 30px;
+	border: 10px dashed orange;
+}
