@@ -1,0 +1,7 @@
+Kita bisa menggunakan properti float pada kondisi:
+- Text Wrapping
+ Membuat teks mengelilingi gambar/elemen lain
+- Image Gallery
+ Membuat serangkaian gambar menjadi galeri
+- Multi-Columm Layout
+ Membuat halaman memiliki beberapa kolom
