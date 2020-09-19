@@ -1,0 +1,26 @@
+div {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+.satu {
+	background-color:lightgreen;
+	z-index: 1;
+}
+
+.dua {
+	background-color: salmon;
+	top: 100px;
+	left: 100px;
+	z-index: 2;
+}
+
+.tiga {
+	background-color: royalblue;
+	top: 200px;
+	left: 200px;
+}
+
+/*Z-Index hanya berlaku pada element yang non-static
+ Z-Index berguna untuk mengatur tumpukan dari sebuah element*/
